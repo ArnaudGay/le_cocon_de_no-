@@ -1,0 +1,52 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: lightblue;
+	padding: 10px;
+}
+
+h1 {
+	margin: 0;
+}
+
+main {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+}
+
+section {
+	flex-basis: 45%;
+}
+
+section h2 {
+	margin-top: 0;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+footer {
+	background-color: lightblue;
+	padding: 10px;
+	text-align: center;
+}
