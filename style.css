@@ -1,0 +1,25 @@
+@font-face {
+  font-family: Chups;
+  src: url(/font/Chups.woff);
+}
+
+.landing {
+  background-color: #f8f8fc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 20px;
+  margin: 0 104px 0 104px;
+}
+
+.titre {
+  font-family: Chups;
+}
